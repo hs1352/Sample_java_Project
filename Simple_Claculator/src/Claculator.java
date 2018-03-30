@@ -1,4 +1,4 @@
-//개발자:홍길동
+//개발자:홍길동, asdfasdf
 public class Claculator {
 
 	public static void main(String[] args) {
