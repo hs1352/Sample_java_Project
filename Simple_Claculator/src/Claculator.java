@@ -1,7 +1,5 @@
 //癒몃㉫�씠�뀖�읆�떇;�씪�뀚sdfsadf;ksdjf;aslkdjfs
-//asdhklfjksadflkj
 
-//1234
 public class Claculator {
 
 	public static void main(String[] args) {
