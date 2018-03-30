@@ -1,4 +1,4 @@
-//°³¹ßÀÚ:È«±æµ¿, asdfasdf
+//ë¨¸ë¨¼ì´ã…ëŸ¼ë‹;ë¼ã…“
 public class Claculator {
 
 	public static void main(String[] args) {
