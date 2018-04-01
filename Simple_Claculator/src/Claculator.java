@@ -8,6 +8,7 @@ public class Claculator {
 		
 		//학원
 		//dlkja;lkjs
+		//집2
 	}
 
 }
