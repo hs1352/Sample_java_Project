@@ -11,7 +11,11 @@ public class Claculator {
 		//학원2
 
 		//dlkja;lkjs
+<<<<<<< HEAD
 		//학원 4
+=======
+		//집2
+>>>>>>> branch 'master' of https://github.com/hs1352/Sample_java_Project.git
 	}
 
 }
