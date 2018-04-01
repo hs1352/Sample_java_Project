@@ -6,10 +6,8 @@ public class Claculator {
 		// TODO Auto-generated method stub
 		System.out.println("calculator.....");
 		
-		//학원
-		//dlkja;lkjs
-		//집2
-		//집3
+		
+		//집1
 	}
 
 }
