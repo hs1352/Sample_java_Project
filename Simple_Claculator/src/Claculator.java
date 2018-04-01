@@ -9,6 +9,7 @@ public class Claculator {
 		
 		//학원1
 		//학원2
+		//학원3
 	}
 
 }
