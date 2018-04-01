@@ -7,6 +7,7 @@ public class Claculator {
 		System.out.println("calculator.....");
 		
 		//학원
+		//학원2
 	}
 
 }
