@@ -9,6 +9,7 @@ public class Claculator {
 		
 		//집1
 		//집2
+		//집3
 	}
 
 }
