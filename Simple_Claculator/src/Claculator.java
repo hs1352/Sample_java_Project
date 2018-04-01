@@ -7,19 +7,9 @@ public class Claculator {
 		System.out.println("calculator.....");
 		
 		//학원
-
-		//학원2
-
 		//dlkja;lkjs
-<<<<<<< HEAD
 		//집2
-=======
-<<<<<<< HEAD
-		//학원 4
-=======
-		//집2
->>>>>>> branch 'master' of https://github.com/hs1352/Sample_java_Project.git
->>>>>>> branch 'master' of https://github.com/hs1352/Sample_java_Project.git
+		//집3
 	}
 
 }
