@@ -11,6 +11,7 @@ public class Claculator {
 
 	//학원1
 	//학원2
+	//집1
 
 	}
 
